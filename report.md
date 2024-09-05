@@ -1,7 +1,7 @@
 # Decoding the Guardian: TP53 as a prognostic biomarker in cancer
 
 Author: Gobikrishnan Subramaniam
-(@gobi)
+(@gobi3141)
 
 ## Introduction
 TP53, or tumour protein 53, is a crucial tumour suppressor gene that plays a key role in maintaining the stability of the genome and preventing cancer formation in vertebrates. Studies have shown that mutation within this gene is associated with tumorigenesis, ultimately leading to cancer. Upon activation, the p53 protein typically hinders tumour growth or triggers apoptosis by regulating the transcription of nearly 500 genes, thereby controlling diverse cellular processes (Guo et al., 2000; Chen et al., 2022). Recent studies have reported that mutp53 strongly correlates with advanced malignancies and poor prognosis, making it an ideal prognostic biomarker and drug target (Chen et al., 2022). Almost 80% of the mutations in p53 are missense mutations/point mutations in the DNA binding domain of the protein, which, in turn, provides a gain-of-function (GOF) to the p53 gene and aids in tumour growth (Kukurba and Montgomery, 2015).
