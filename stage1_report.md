@@ -2,7 +2,7 @@
 
 ** Authors: Shola Paul Emiade (@Shawlyem), Abilashni Arthiswaran (@Abilashni83) and Gobikrishnan Subramaniam (@gobi3141)**
 
-## Comprehensive molecular profiling of lung adenocarcinoma https://www.nature.com/articles/nature13385
+## (Comprehensive molecular profiling of lung adenocarcinoma) [https://www.nature.com/articles/nature13385]
 
 ## Introduction
 According to GLOBOCAN 2022 estimates from the Global Cancer Observatory,  lung adenocarcinoma was found to be the leading cause of cancer mortality worldwide with over 1.8 million deaths. Recent advancements in next-generation sequencing (NGS) have significantly transformed the landscape of tumour diagnosis and treatment by enabling the utilisation of molecular profiling to improve diagnosis and optimise treatment plans. This study focuses on identifying mutations that can be utilised for targeted therapies involving clinically actionable genes, and understanding the role of key factors driving lung adenocarcinoma progression and provides new paradigms for developing new targeted therapies and personalised treatments (Collisson et al., 2014, Ding et al., 2008; Imielinski et al., 2012). 
