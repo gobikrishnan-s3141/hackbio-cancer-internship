@@ -1,4 +1,4 @@
-## Title: [Comprehensive molecular profiling of lung adenocarcinoma](https://www.nature.com/articles/nature13385)
+## [Comprehensive molecular profiling of lung adenocarcinoma](https://www.nature.com/articles/nature13385)
 
 ** Authors: Shola Paul Emiade (@Shawlyem), Abilashni Arthiswaran (@Abilashni83) and Gobikrishnan Subramaniam (@gobi3141)**
 
@@ -22,6 +22,7 @@ According to GLOBOCAN 2022 estimates from the Global Cancer Observatory,  lung a
 - Integrative analysis identified 6 distinct molecular subtypes of lung adenocarcinoma associated with distinct genomic alterations.
 
 ![image](https://github.com/user-attachments/assets/30406995-9217-454a-a0c1-99174bf242ab)
+
 *Fig.1: Integrative analysis of 230 lung adenocarcinoma samples*
 
 ## Conclusion
