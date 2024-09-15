@@ -12,7 +12,7 @@ According to GLOBOCAN 2022 estimates from the Global Cancer Observatory,  lung a
 230 samples were collected from adenocarcinoma patients with all major histologic forms of the cancer represented. DNA and RNA were extracted using the Allprep kit and whole-exome sequencing (WES) was performed on tumour and germline DNA. Consensus clustering approaches were used to analyse mRNA, miRNA and methylation subtypes (Collisson et al., 2014).
 
 ## Key findings
-- Higher frequency of somatic mutations were observed, with a mean of 8.9 mutations per megabase and among them 18 genes were statistically significantly (RIT1 activating mutations and MGA loss-of-function mutations).
+- Higher frequency of somatic mutations were observed, with a mean of 8.9 mutations per megabase. 18 genes were statistically significantly mutated (RIT1 activating mutations and MGA loss-of-function mutations).
 - Mutations in EGFR were more frequent in female patients, while RBM10 mutations were more common in males. 
 - KRAS mutations were more prevalent in smokers, while EGFR mutations were enriched in non-smokers, with distinct mutation patterns observed between these groups. 
 - Aberrations in NF1, MET, ERBB2 and RIT1 occurred in 13% of cases and were enriched in samples lacking an activated oncogene, suggesting a potential driver role.
