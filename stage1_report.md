@@ -1,6 +1,6 @@
-## [Comprehensive molecular profiling of lung adenocarcinoma](https://www.nature.com/articles/nature13385)
+## Comprehensive molecular profiling of lung adenocarcinoma
 
-** Authors: Shola Paul Emiade (@Shawlyem), Abilashni Arthiswaran (@Abilashni83) and Gobikrishnan Subramaniam (@gobi3141)**
+**Authors:** Shola Paul Emiade (@Shawlyem), Abilashni Arthiswaran (@Abilashni83) and Gobikrishnan Subramaniam (@gobi3141)
 
 ## Video presentation
 
