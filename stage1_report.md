@@ -50,3 +50,5 @@ Paez, J.G. et al. (2004) ‘egfr mutations in lung cancer: correlation with clin
 Stephens, P. et al. (2004) ‘Intragenic ERBB2 kinase mutations in tumours’, Nature, 431(7008), pp. 525–526. Available at: https://doi.org/10.1038/431525b.
 
 The Cancer Genome Atlas Research Network (2012) ‘Comprehensive genomic characterization of squamous cell lung cancers’, Nature, 489(7417), pp. 519–525. Available at: https://doi.org/10.1038/nature11404.
+
+stage 2 input dataset: https://raw.githubusercontent.com/HackBio-Internship/public_datasets/main/Cancer2024/glioblastoma.csv
