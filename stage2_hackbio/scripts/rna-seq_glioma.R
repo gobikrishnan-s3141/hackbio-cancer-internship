@@ -173,18 +173,26 @@ dds<-DESeq(dds)
 res<-results(dds)
 summary(res)
 
-up.genes<-subset(res, log2FoldChange > 1)
+up.genes<-subset(res, log2FoldChange > 1 & padj < 0.05)
 write.csv(up.genes, "upreg_genes.csv")
-down.genes<-subset(res, log2FoldChange < -1)
+down.genes<-subset(res, log2FoldChange < -1 & padj < 0.05)
 write.csv(down.genes, "downreg_genes.csv")
 
 jpeg("plots/volcanoplot.jpeg", width=8, height=6, units="in", res=300, quality=100)
 
 plot(res$log2FoldChange, -log10(res$padj),
-     pch=20, main="Volcano Plot",
-     xlab="Log2 Fold Change", ylab="-Log10 Adjusted P-value")
+     pch=20, 
+     main="Volcano Plot",
+     xlab="Log2 Fold Change", 
+     ylab="-Log10 Adjusted P-value",
+     col=ifelse(res$padj < 0.05 & res$log2FoldChange > 1, "red",
+                 ifelse(res$padj < 0.05 & res$log2FoldChange < -1,"blue","grey")))
 
-abline(h=-log10(0.05), col="blue", lty=2)
-abline(v=c(-1, 1), col="blue", lty=2)
+abline(h=-log10(0.05), col="black", lty=2)
+
+abline(v=c(-1, 1), col="black", lty=2)
+
+legend("topright", legend = c("Upregulated", "Downregulated", "Not Significant"),
+       col = c("red", "blue", "grey"), pch = 20)
 
 dev.off()
