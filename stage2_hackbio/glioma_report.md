@@ -6,7 +6,7 @@
 
 **Link to the data set:** <https://raw.githubusercontent.com/HackBio-Internship/public_datasets/main/Cancer2024/glioblastoma.csv>
 
-**Link to the R code:** [hackbio-cancer-internship/stage 2/code.R at main · Abilashni/hackbio-cancer-internship (github.com)](https://github.com/Abilashni/hackbio-cancer-internship/blob/main/stage%202/code.R)
+**Link to the R code:** (stage2_hackbio/scripts/rna-seq_glioma.R at main · gobikrishnan-s3141/hackbio-cancer-internship (github.com))[https://github.com/gobikrishnan-s3141/hackbio-cancer-internship/tree/main/stage2_hackbio]
 
 ## **Introduction**
 
@@ -64,9 +64,9 @@ Clustering rows and columns in heatmaps helps identify patterns, make complex da
 
 **Task 3:** Subset genes that are significantly upregulated and downregulated
 
-**Link for the csv file of upregulated genes:** [hackbio-cancer-internship/stage 2/data/upreg\_genes.csv at main · Abilashni/hackbio-cancer-internship (github.com)](https://github.com/Abilashni/hackbio-cancer-internship/blob/main/stage%202/data/upreg_genes.csv)
+**Link for the csv file of upregulated genes:** [hackbio-cancer-internship/stage2_hackbio/scripts/upreg\_genes.csv at main · gobikrishnan-s3141/hackbio-cancer-internship (github.com)](https://github.com/gobikrishnan-s3141/hackbio-cancer-internship/blob/main/stage2_hackbio/scripts/upreg_genes.csv)
 
-**Link for the csv file of downregulated genes:** [hackbio-cancer-internship/stage 2/data/downreg\_genes.csv at main · Abilashni/hackbio-cancer-internship (github.com)](https://github.com/Abilashni/hackbio-cancer-internship/blob/main/stage%202/data/downreg_genes.csv)
+**Link for the csv file of downregulated genes:** [hackbio-cancer-internship/stage2_hackbio/scripts/downreg\_genes.csv at main · gobikrishnan-s3141/hackbio-cancer-internship (github.com)](https://github.com/gobikrishnan-s3141/hackbio-cancer-internship/blob/main/stage2_hackbio/scripts/downreg_genes.csv)
 
 ****![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXedgaTqwEsFlidYVnOS4w0B-knlhgigsqQHYeRvAbKX2O1usE7m5MeN0zRsHpwWDMeM55WC9UQzaW8qolfvcVa4nB729loq3epLYU8A1Rma-7YwosxsHQ3ALDN1gAmvJgyoACiSEq1hyl1dbUIm5drKkrz0?key=GW7GZ2zHVjSMNHeoiyuENQ)****
 
