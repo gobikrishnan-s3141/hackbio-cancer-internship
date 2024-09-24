@@ -68,7 +68,7 @@ Clustering rows and columns in heatmaps helps identify patterns, make complex da
 
 **Link for the csv file of downregulated genes:** [hackbio-cancer-internship/stage2_hackbio/scripts/downreg\_genes.csv at main · gobikrishnan-s3141/hackbio-cancer-internship (github.com)](https://github.com/gobikrishnan-s3141/hackbio-cancer-internship/blob/main/stage2_hackbio/scripts/downreg_genes.csv)
 
-****![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXedgaTqwEsFlidYVnOS4w0B-knlhgigsqQHYeRvAbKX2O1usE7m5MeN0zRsHpwWDMeM55WC9UQzaW8qolfvcVa4nB729loq3epLYU8A1Rma-7YwosxsHQ3ALDN1gAmvJgyoACiSEq1hyl1dbUIm5drKkrz0?key=GW7GZ2zHVjSMNHeoiyuENQ)****
+![image](https://github.com/user-attachments/assets/96228074-6a09-4b85-839a-ba7c67785717)
 
 **Figure 10: Visualization of upregulated and downregulated of genes using Volcano Plot**
 
